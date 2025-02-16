@@ -1,4 +1,4 @@
-# 👋 Hi there, I’m Muneeb (Oherwise known as Binu)
+# 👋 Hi there, I’m Muneeb
 🚀 **Robotics | Embedded Systems | IoT**
 
 🔹 Passionate about **low-level programming, robotics, AI, Computer Vision**  
