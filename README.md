@@ -12,7 +12,7 @@
 
 ## 📫 How to Reach Me
 - GitHub: [github.com/binu-0000](https://github.com/binu-0000)
-- Email: **mennadmuneeb@gmail.com**
+- Email: **binu@tuta.com**
 
 <!---
 binu-0000/binu-0000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
