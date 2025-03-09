@@ -1,17 +1,17 @@
 # 👋 Hi there, I’m Muneeb
-🚀 **Robotics | Embedded Systems | IoT**
+🚀 **Robotics | Embedded Systems | Machine Learning**
 
-🔹 Passionate about **low-level programming, robotics, AI, Computer Vision**  
+🔹 Passionate about **Robotics, AI, Computer Vision**  
 🔹 Exploring **robotics software, simulations, Computer Vision**
-🔹 Learning **JavaScript (Three.js), ROS2 (Humble), OpenCV, TensorFlow, Gazebo**
+🔹 Learning **JavaScript (Three.js), ROS2 (Jazzy), YOLO, Tensorflow, Yocto, scikit-learn**
 
 ## 🔧 Tech Stack
-- **Languages:** C, C++, Python, Java, JavaScript  
-- **Tools:** ROS, OpenCV, NumPy, Pandas, Conda, Git, Arduino IDE, VSCode  
-- **OS:** Ubuntu 22.04 (Jammy)  
+- **Languages:** C, C++, Python, Java, Bash
+- **Software Technologies:** Git, Linux, ROS 2 (Jazzy, Humble), Gazebo, OpenCV, PyTorch, TensorFlow, scikit-learn, NumPy, Pandas, Matplotlib, Docker, CMake, TinkerCAD
+- **Hardware Technologies:** Arduino, ESP32 (Node MCU)
 
 ## 📫 How to Reach Me
-- GitHub: [github.com/binu-0000](https://github.com/binu-0000)
+- GitHub: [github.com/b1inu](https://github.com/b1inu)
 - Email: **binu@tuta.com**
 
 <!---
